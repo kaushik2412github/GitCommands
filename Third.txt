@@ -1,0 +1,1 @@
+To see difference between working area and repository
